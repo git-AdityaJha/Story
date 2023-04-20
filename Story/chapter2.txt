@@ -1,1 +1,1 @@
-This is chapter 2 and we are learning git commit right now.
+Making some changes here. This is chapter 2 and we are learning git commit right now.
